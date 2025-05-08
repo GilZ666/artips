@@ -33,8 +33,8 @@ A modern web application for exploring and tipping coin creators on the Base net
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd my-app
+git clone https://github.com/GilZ666/artips
+cd artips
 ```
 
 2. Install dependencies:
